@@ -29,4 +29,4 @@ A simple PHP-based web application that allows users to **upload recipes** (with
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/php-recipe-manager.git
-   cd php-recipe-manager
+   cd recipe-website
